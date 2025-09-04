@@ -3,7 +3,7 @@
 Task Summary: Lead Conversion Prediction Model
 Objective: Build a neural network to predict customer conversion probability for leads that have successfully completed the booking call process.
 Dataset:
-•	40,000 leads (lead-level analysis)
+•	30,000 leads (request-level analysis)
 •	Population: Leads that completed booking calls and got sales calls scheduled (request created)
 •	Target variable: CONTRACT_SIGNED
 •	Conversion rate: 470/40k = 1.2% (highly imbalanced)
